@@ -1,6 +1,6 @@
 # StudioSpend public files
 
-Published from the public repo `Leonardo-Labs/studiospend-public` by Cloudflare Pages
+Published from the public repo `vitruvianlabs/studiospend-public` by Cloudflare Pages
 (project `studiospend-public`, `https://studiospend-public.pages.dev/`; later also on the product domain). This folder in the private repo is
 the source of truth; copy changes there.
 
