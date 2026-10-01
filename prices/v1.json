@@ -1890,7 +1890,7 @@
       "name": "kie.ai",
       "category": "Model hubs",
       "color": "#111827",
-      "connector": null,
+      "connector": "kie",
       "prepaid": true,
       "unit": "credits",
       "unit_note": "≈ $0.005 per credit · one wallet for Veo, Seedance, Suno and more",
