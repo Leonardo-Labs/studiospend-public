@@ -1,0 +1,5 @@
+# Cloudflare Pages headers. The app checks the price table twice a day;
+# an hour of caching keeps edge traffic low without delaying updates much.
+/prices/*
+  Cache-Control: public, max-age=3600
+  Access-Control-Allow-Origin: *
