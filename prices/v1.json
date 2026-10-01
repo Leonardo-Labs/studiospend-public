@@ -1886,6 +1886,18 @@
       "plans": []
     },
     {
+      "id": "luma_api",
+      "name": "Luma API",
+      "category": "Model hubs",
+      "color": "#a78bfa",
+      "connector": null,
+      "prepaid": true,
+      "unit": "USD",
+      "unit_note": "Add funds first at platform.lumalabs.ai; balance shows there only · Uni-1 image $0.04",
+      "pricing_url": "https://docs.agents.lumalabs.ai/guides/pricing/",
+      "plans": []
+    },
+    {
       "id": "kie",
       "name": "kie.ai",
       "category": "Model hubs",
@@ -2882,6 +2894,23 @@
           "job": "image_hq",
           "model": "Nano Banana Pro",
           "cost": 0.14,
+          "verified": true,
+          "unlimited_on": [],
+          "relaxed": false
+        }
+      ]
+    },
+    {
+      "id": "luma_api",
+      "app_url": "https://platform.lumalabs.ai",
+      "rollover": {
+        "kind": "all"
+      },
+      "offers": [
+        {
+          "job": "image",
+          "model": "Uni-1 (API)",
+          "cost": 0.0404,
           "verified": true,
           "unlimited_on": [],
           "relaxed": false
