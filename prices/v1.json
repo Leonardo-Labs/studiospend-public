@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 3,
+  "revision": 4,
   "platforms": [
     {
       "id": "runway",
@@ -2037,7 +2037,7 @@
       "name": "Ideogram API",
       "category": "Model hubs",
       "color": "#d946ef",
-      "connector": null,
+      "connector": "ideogram_api",
       "prepaid": false,
       "parent": "ideogram",
       "wallet_label": "API wallet",
