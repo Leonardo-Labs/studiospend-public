@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 1,
+  "revision": 2,
   "platforms": [
     {
       "id": "runway",
@@ -843,7 +843,7 @@
       "name": "Ideogram",
       "category": "Image",
       "color": "#e879f9",
-      "connector": "ideogram",
+      "connector": null,
       "prepaid": false,
       "parent": null,
       "wallet_label": null,
@@ -2030,6 +2030,20 @@
       "unit": "USD",
       "unit_note": "Add funds first at platform.lumalabs.ai; balance shows there only · Uni-1 image $0.04",
       "pricing_url": "https://docs.agents.lumalabs.ai/guides/pricing/",
+      "plans": []
+    },
+    {
+      "id": "ideogram_api",
+      "name": "Ideogram API",
+      "category": "Model hubs",
+      "color": "#d946ef",
+      "connector": null,
+      "prepaid": false,
+      "parent": "ideogram",
+      "wallet_label": "API wallet",
+      "unit": "USD of usage",
+      "unit_note": "Billed on usage with invoices; no balance to read. Your spend is at ideogram.ai under the API platform",
+      "pricing_url": "https://ideogram.ai/features/api-pricing",
       "plans": []
     },
     {
