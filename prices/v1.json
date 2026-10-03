@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_at": "2026-10-03",
-  "revision": 2,
+  "revision": 3,
   "platforms": [
     {
       "id": "runway",
@@ -2009,7 +2009,7 @@
       "name": "Runware",
       "category": "Model hubs",
       "color": "#6366f1",
-      "connector": "runware",
+      "connector": null,
       "prepaid": true,
       "parent": null,
       "wallet_label": null,
