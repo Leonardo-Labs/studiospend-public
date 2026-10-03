@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-01",
-  "revision": 2,
+  "generated_at": "2026-10-03",
+  "revision": 1,
   "platforms": [
     {
       "id": "runway",
@@ -2002,6 +2002,20 @@
       "unit": "USD",
       "unit_note": "Seedance 2.0 Fast $0.10/sec · Nano Banana Pro $0.14/image",
       "pricing_url": "https://wavespeed.ai/pricing",
+      "plans": []
+    },
+    {
+      "id": "runware",
+      "name": "Runware",
+      "category": "Model hubs",
+      "color": "#6366f1",
+      "connector": "runware",
+      "prepaid": true,
+      "parent": null,
+      "wallet_label": null,
+      "unit": "USD",
+      "unit_note": "Pay per generation; prices vary by model (see the pricing page)",
+      "pricing_url": "https://runware.ai/pricing",
       "plans": []
     },
     {
